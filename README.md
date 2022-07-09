@@ -39,4 +39,4 @@ Environnement de travail :
 		Le validateur W3C.
 		La plateforme GitHub Pages.
 
-Lien pour consulter le site : https://gilbrou.github.io/Game-On/
+Lien pour consulter le site : https://gilbrou.github.io/GameOn/
